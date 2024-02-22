@@ -7,7 +7,7 @@ hero:
   text: "好记性不如烂笔头"
   tagline: Keep Reading, Keep Writing, Keep Coding.
   image:
-    src: /public/images/星球.png
+    src: /public/images/星球.svg
     alt: VitePress
   actions:
     - theme: brand
