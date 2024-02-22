@@ -7,6 +7,7 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/public/images/logo.svg',
     nav: [
       { text: '主页', link: '/' },
       { text: '服务端', link: '/md/服务端/README.md' },

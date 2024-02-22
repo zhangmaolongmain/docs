@@ -6,6 +6,9 @@ hero:
   name: "张茂龙的知识库"
   text: "好记性不如烂笔头"
   tagline: Keep Reading, Keep Writing, Keep Coding.
+  image:
+    src: /public/images/星球.png
+    alt: VitePress
   actions:
     - theme: brand
       text: 个人简介
