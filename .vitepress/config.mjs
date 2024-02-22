@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/docs/",
-  title: "My Awesome Project",
+  title: "zhangmaolong Note",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -21,6 +21,10 @@ export default defineConfig({
         ]
       }
     ],
+
+    footer:{
+      copyright: "版权所有 © 2024 张茂龙"
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
